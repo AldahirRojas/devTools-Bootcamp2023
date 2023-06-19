@@ -41,3 +41,5 @@ function countNameRepetitions(names) {
   //   Pedro: '*'
   // }
   
+
+  // En esta solución, la función countNameRepetitions() recibe como parámetro un array de nombres. Se crea un objeto nameCount para almacenar los nombres y su conteo correspondiente. Luego, se recorre el array de nombres y se actualiza el conteo en el objeto nameCount. Después, se crea un nuevo objeto result donde se almacenará la representación de asteriscos para cada nombre. Finalmente, se recorre el objeto nameCount, se genera la cadena de asteriscos con la función repeat() y se asigna al objeto result. El resultado final es el objeto result con los nombres y su representación de asteriscos correspondiente.
